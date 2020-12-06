@@ -1,0 +1,12 @@
+C:\Projects\eticaret\shopapp.dataaccess\bin\Debug\netstandard2.0\shopapp.dataaccess.deps.json
+C:\Projects\eticaret\shopapp.dataaccess\bin\Debug\netstandard2.0\shopapp.dataaccess.dll
+C:\Projects\eticaret\shopapp.dataaccess\bin\Debug\netstandard2.0\shopapp.dataaccess.pdb
+C:\Projects\eticaret\shopapp.dataaccess\bin\Debug\netstandard2.0\shopapp.entity.dll
+C:\Projects\eticaret\shopapp.dataaccess\bin\Debug\netstandard2.0\shopapp.entity.pdb
+C:\Projects\eticaret\shopapp.dataaccess\obj\Debug\netstandard2.0\shopapp.dataaccess.csprojAssemblyReference.cache
+C:\Projects\eticaret\shopapp.dataaccess\obj\Debug\netstandard2.0\shopapp.dataaccess.csproj.CoreCompileInputs.cache
+C:\Projects\eticaret\shopapp.dataaccess\obj\Debug\netstandard2.0\shopapp.dataaccess.AssemblyInfoInputs.cache
+C:\Projects\eticaret\shopapp.dataaccess\obj\Debug\netstandard2.0\shopapp.dataaccess.AssemblyInfo.cs
+C:\Projects\eticaret\shopapp.dataaccess\obj\Debug\netstandard2.0\shopapp.dataaccess.csproj.CopyComplete
+C:\Projects\eticaret\shopapp.dataaccess\obj\Debug\netstandard2.0\shopapp.dataaccess.dll
+C:\Projects\eticaret\shopapp.dataaccess\obj\Debug\netstandard2.0\shopapp.dataaccess.pdb
